@@ -10,3 +10,7 @@ O frontend consome a API do backend hospedado no Render.
 - Adicionar novas tarefas
 - Editar tarefas inline
 - Deletar tarefas
+
+## Repositório do backend
+
+https://github.com/Kaiosergio21/todo-backend
