@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000"; // mudar depois para o backend no Render
+const API_URL = "https://todo-backend-sccd.onrender.com"; // mudar depois para o backend no Render
 
 async function loadTasks() {
   const res = await fetch(`${API_URL}/tasks`);
